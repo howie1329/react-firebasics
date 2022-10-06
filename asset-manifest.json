@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-firebasics/static/css/main.fab6eaf9.css",
+    "main.js": "/react-firebasics/static/js/main.b51adac4.js",
+    "index.html": "/react-firebasics/index.html",
+    "main.fab6eaf9.css.map": "/react-firebasics/static/css/main.fab6eaf9.css.map",
+    "main.b51adac4.js.map": "/react-firebasics/static/js/main.b51adac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab6eaf9.css",
+    "static/js/main.b51adac4.js"
+  ]
+}
